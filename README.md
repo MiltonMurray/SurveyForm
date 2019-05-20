@@ -1,2 +1,2 @@
 # SurveyForm
-A simple survey form to practive responsive web design
+A simple survey form to practice responsive web design
